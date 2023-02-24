@@ -53,23 +53,11 @@ function App() {
       <ReyesComponent reyes = {reyes}/>
       <div>___________________________________________________________________</div>
 
-      <h1>Actividad 2: "Reyes filtro!!!"</h1>
+      <h1>Actividad 2: "Busca Reyes!!!"</h1>
       <ReyesFiltro reyes = {reyes}/>
-
-
-      <div>___________________________________________________________________</div>
-
-      <h1>Actividad 3: "Primero Econtrado!!!"</h1>
-      
-      <br></br>
-      <ReyesPrimerRey reyes = {reyes}/>
       
 
-      <div>___________________________________________________________________</div>
 
-      <h1>Actividad 4: "Reyes Come Vacas!!!"</h1>
-      
-      <ReyesComeVacas reyes = {reyes}/>
 
       
 
